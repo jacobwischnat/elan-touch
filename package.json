@@ -1,0 +1,19 @@
+{
+  "devDependencies": {
+    "@babel/core": "^7.12.10",
+    "@babel/preset-env": "^7.12.11",
+    "babel-loader": "^8.2.2",
+    "usb": "^1.6.3",
+    "webpack": "^5.11.0",
+    "webpack-cli": "^4.2.0"
+  },
+  "name": "elan-touch",
+  "description": "https://github.com/iafilatov/libfprint/blob/elan-github-msg/libfprint/drivers/elan.c",
+  "version": "1.0.0",
+  "main": "webpack.config.js",
+  "scripts": {
+    "build": "webpack"
+  },
+  "author": "Jacob Wischnat",
+  "license": "MIT"
+}
